@@ -1,0 +1,5 @@
+PyQt5 Dokümantasyon : http://pyqt.sourceforge.net/Docs/PyQt5/class_reference.html
+
+ZetCode Tutorial : http://zetcode.com/gui/pyqt5/
+
+Tutorials Point : https://www.tutorialspoint.com/pyqt/pyqt_tutorial.pdf
